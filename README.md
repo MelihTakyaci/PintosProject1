@@ -4,7 +4,7 @@
 ---- G R U P ----------------------------------------------------
 
 2023280154  Melih Takyacı     melih.takyaci@ogr.deu.edu.tr
-2023280140  Emre Özdemir      emre.ozdemir@ogr.deu.edu.tr
+2023280140  Emre Özdemir      emre.ozdemir23@ogr.deu.edu.tr
 2022280128  Eren Önder        eren.onder@ogr.deu.edu.tr
 2022280050  Emir Mutlu        emir.mutlu@ogr.deu.edu.tr
 
